@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         Yandex Luceym - Text Updater
-// @version      1.0
+// @name         Yandex Lyceum - Text Updater
+// @version      1.1
 // @description  Скрипт, который моментально меняет содержимое Яндекс LMS на кастомный текст
 // @author       Ilsur Gilmutdinov - ilsur_dev
 // @match        *://lyceum.yandex.ru/*
