@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Yandex Lyceum - Addon
-// @version      1.2
+// @version      1.3
 // @description  Аддон для Яндекс LMS, который добавляет доп. функционал и кастомные тексты
 // @author       Ilsur Gilmutdinov - ilsur_dev
 // @match        *://lyceum.yandex.ru/*
